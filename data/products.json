@@ -1,0 +1,5 @@
+[
+    {"product_id": 1, "name": "Laptop", "category": "Electronics", "price": 999.99},
+    {"product_id": 2, "name": "Phone", "category": "Electronics", "price": 499.99}
+  ]
+  

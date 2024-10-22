@@ -1,0 +1,5 @@
+[
+    {"feedback_id": 1, "product_id": 1, "customer_id": 101, "rating": 5, "review": "Great product!"},
+    {"feedback_id": 2, "product_id": 2, "customer_id": 102, "rating": 4, "review": "Good value for money."}
+  ]
+  
